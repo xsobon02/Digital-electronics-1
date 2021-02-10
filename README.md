@@ -9,10 +9,11 @@
 ### Lists
 1. list1
 2. list2
-⋅⋅* Unordered sub-list. 
-1. un list
-⋅⋅1. Ordered sub-list
-4. list4
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 ### Links
 [Google link](https://www.google.com)
