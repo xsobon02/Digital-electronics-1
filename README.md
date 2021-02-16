@@ -15,7 +15,7 @@ begin
 end architecture dataflow;
       
 ```
-![DeMorgan signals](https://github.com/xsobon02/Digital-electronics-1/demorgan.png)
+![DeMorgan signals](https://github.com/xsobon02/Digital-electronics-1/blob/main/demorgan.png)
 ### Lists
 1. list1
 2. list2
