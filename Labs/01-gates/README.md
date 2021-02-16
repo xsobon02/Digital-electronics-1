@@ -15,7 +15,7 @@ begin
 end architecture dataflow;
       
 ```
-![DeMorgan signals](https://github.com/xsobon02/Digital-electronics-1/blob/main/demorgan.png)
+![DeMorgan signals](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/01-gates/demorgan.png)
 
 [EDA Playground example](https://www.edaplayground.com/x/DUUw)
 
