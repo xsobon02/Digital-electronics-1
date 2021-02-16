@@ -1,11 +1,21 @@
 # Digital-electronics-1
-## Headers
+## git hub link
+https://github.com/xsobon02/Digital-electronics-1
 
-### Emphasis
+## De Morgan's laws
 
-*Emphasis italics*
-**Emphasis bold**
+### VHDL
+```vhdl
+architecture dataflow of gates is
+begin
+    f_o  <= ((not b_i) and a_i) or ((not c_i) and (not b_i)) ;
+    fnand_o <= not(not(not b_i and a_i) and not(not c_i and not b_i));
+    fnor_o <= not(b_i or not a_i) or not(c_i or b_i);
 
+end architecture dataflow;
+      
+```
+![DeMorgan signals](https://github.com/xsobon02/Digital-electronics-1/demorgan.png)
 ### Lists
 1. list1
 2. list2
@@ -30,15 +40,4 @@
 | 1 | 1 | 0 |  |
 | 1 | 1 | 1 |  |
 
-### VHDL
-```vhdl
-clkgen: process(clk_in, reset)
-      begin
-        if reset = '1' then
-          clk_gen <= '1';
-        elsif clk_in'event and clk_in = '1' then
-          clk_gen <= q2;
-        end if;
-      end process clkgen;
-      
-```
+
