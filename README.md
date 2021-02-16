@@ -16,17 +16,11 @@ end architecture dataflow;
       
 ```
 ![DeMorgan signals](https://github.com/xsobon02/Digital-electronics-1/blob/main/demorgan.png)
-### Lists
-1. list1
-2. list2
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+[EDA Playground example](https://www.edaplayground.com/x/DUUw)
 
-### Links
-[Google link](https://www.google.com)
+
+
 
 ### Table
 | **c** | **b** |**a** | **f(c,b,a)** |
