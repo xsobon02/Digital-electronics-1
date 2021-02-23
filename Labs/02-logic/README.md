@@ -189,6 +189,7 @@ begin
 
 end architecture testbench;
 ```
+### Listing of simulator console output, i.e. with one reported error
 ![console](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/console.png)
 
 [EDA Playground example](https://www.edaplayground.com/x/WqmQ)
