@@ -31,6 +31,7 @@ https://github.com/xsobon02/Digital-electronics-1
 ### Equations of simplified SoP form of the "greater than" function and simplified PoS form of the "less than" function
 ![equations](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/eqs.png)
 
+### Link to my public EDA Playground example
 [EDA Playground example](https://www.edaplayground.com/x/jTgV)
 
 ## 2. A 4-bit comparator
@@ -192,4 +193,5 @@ end architecture testbench;
 ### Listing of simulator console output, i.e. with one reported error
 ![console](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/console.png)
 
+### Link to my public EDA Playground example
 [EDA Playground example](https://www.edaplayground.com/x/WqmQ)
