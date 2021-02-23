@@ -22,3 +22,6 @@ https://github.com/xsobon02/Digital-electronics-1
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
 
 ## 2. A 2-bit comparator
+![equals K-map](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/kmap_equals.png)
+![greater than K-map](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/kmap_greater.png)
+![less than K-map](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/kmap_less.png)
