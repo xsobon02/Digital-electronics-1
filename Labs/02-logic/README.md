@@ -28,3 +28,5 @@ https://github.com/xsobon02/Digital-electronics-1
 ![greater than K-map](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/kmap_greater.png)
 ### less than function K-map
 ![less than K-map](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/kmap_less.png)
+### Equations of simplified SoP form of the "greater than" function and simplified PoS form of the "less than" function
+![equations](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/02-logic/eqs.png)
