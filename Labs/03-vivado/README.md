@@ -61,3 +61,22 @@ p_stimulus : process
 ```
 ### Screenshot with simulated time waveforms
 ![waveforms](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/waves.png)
+
+## 3. A Vivado tutorial
+### project creation (adding XDC constraints file)
+![1](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/1.png)
+![2](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/2.png)
+![3](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/3.png)
+![4](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/4.png)
+![5](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/5.png)
+![6](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/6.png)
+![7](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/7.png)
+![8](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/8.png)
+![9](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/9.png)
+### adding source file/testbench file
+![sim1](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/sim1.png)
+![sim2](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/sim2.png)
+![sim3](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/sim3.png)
+![sim4](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/sim4.png)
+### running simulation
+![run1](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/run1.png)
