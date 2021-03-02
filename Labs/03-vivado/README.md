@@ -60,4 +60,4 @@ p_stimulus : process
     end process p_stimulus;
 ```
 ### Screenshot with simulated time waveforms
-![waveforms](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/waves.png)
+![waveforms](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/03-vivado/Images/waves.png)
