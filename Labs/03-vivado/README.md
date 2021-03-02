@@ -22,7 +22,7 @@ https://github.com/xsobon02/Digital-electronics-1
 | LED15 | V11 | SW15 | V10 |
 
 ## 2. Two-bit wide 4-to-1 multiplexer
-### Listing of VHDL architecture from source file mux_2bit_4to1.vhd with syntax highlighting
+### Listing of VHDL architecture from source file `mux_2bit_4to1.vhd` with syntax highlighting
 ```vhdl
 architecture Behavioral of mux_2bit_4to1 is
 begin
@@ -36,7 +36,7 @@ begin
    
 end architecture Behavioral;
 ```
-### Listing of VHDL stimulus process from testbench file tb_mux_2bit_4to1.vhd with syntax highlighting
+### Listing of VHDL stimulus process from testbench file `tb_mux_2bit_4to1.vhd` with syntax highlighting
 ```vhdl
 p_stimulus : process
     begin
