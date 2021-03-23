@@ -2,7 +2,7 @@
 https://github.com/xsobon02/Digital-electronics-1
 ## 1. Preparation tasks
 ### Timing diagram figure for displaying value `3.142`
-![diagram](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/05-counter/Images/diagram.png)
+![diagram](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/06-display_driver/Images/diagram.png)
 
 ## 2. Display driver
 ### Listing of VHDL code of the process `p_mux`
@@ -136,7 +136,7 @@ begin
 end architecture testbench;
 ```
 ### Screenshot with simulated time waveforms
-![waveforms](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/05-counter/Images/waveforms.png)
+![waveforms](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/06-display_driver/Images/waveforms.png)
 ### Listing of VHDL architecture of the top layer
 ```vhdl
 architecture Behavioral of top is
@@ -189,4 +189,4 @@ end architecture Behavioral;
 ```
 ## 3. Eight-digit driver
 ### Image of the driver schematic
-![schematic](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/05-counter/Images/schematic.png)
+![schematic](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/06-display_driver/Images/schematic.png)
