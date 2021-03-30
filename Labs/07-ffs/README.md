@@ -524,3 +524,4 @@ end process p_d_latch;
 
 ## 4. Shift register
 ### Image of the shift register schematic
+![shift](https://github.com/xsobon02/Digital-electronics-1/blob/main/Labs/07-ffs/Images/shift.png)
