@@ -220,6 +220,10 @@ https://github.com/xsobon02/Digital-electronics-1
                             s_cnt   <= c_ZERO;
                         end if;
 
+
+                    -- It is a good programming practice to use the 
+                    -- OTHERS clause, even if all CASE choices have 
+                    -- been made. 
                     when others =>
                         s_state <= STOP1;
 
