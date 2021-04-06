@@ -123,8 +123,8 @@ https://github.com/xsobon02/Digital-electronics-1
                 west_o  <= "100";   -- Red      (RGB = 100)
 
             when others =>
-                south_o <= "100";   -- Red
-                west_o  <= "100";   -- Red
+                south_o <= "100";   -- Red	(RGB = 100)
+                west_o  <= "100";   -- Red	(RGB = 100)
 
         end case;
 
